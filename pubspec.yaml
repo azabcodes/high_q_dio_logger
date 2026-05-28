@@ -1,5 +1,5 @@
 name: high_q_dio_logger
-description: "A new Flutter package project."
+description: "A powerful, customizable, and beautifully formatted HTTP traffic logger interceptor for Dio. Features cURL generation, body formatting, rate limiting, and sensitive data sanitization."
 version: 0.0.1
 homepage: "https://github.com/azabcodes/high_q_dio_logger"
 
